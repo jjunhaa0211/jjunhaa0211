@@ -31,8 +31,9 @@
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=brack&logo=Adobe XD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=brack&logo=Notion&logoColor=white"/>
 
-
-
-</div>
-
+  
+<br/>
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunhaa0211&show_icons=true&theme=dark)
+  
+</div>
