@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/CLion-000000?style=brack&logo=CLion&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=brack&logo=GitKraken&logoColor=white"/>
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=brack&logo=CocoaPods&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=brack&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=brack&logo=Adobe XD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=brack&logo=Notion&logoColor=white"/>
