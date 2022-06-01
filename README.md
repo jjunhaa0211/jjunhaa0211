@@ -10,6 +10,10 @@
 ⭐️Skills⭐️
   
 <img src="https://img.shields.io/badge/Swift-F05138?style=red&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-F05138?style=yellow&logo=C/C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=red&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=red&logo=Swift&logoColor=white"/>
+
 
 
 
