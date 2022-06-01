@@ -4,7 +4,7 @@
 
 ### Hello, I'm JunHa 🫡
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjunhaa0211&count_bg=%23F05138&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://https://github.com/jjunhaa0211)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjunhaa0211&count_bg=%23E05741&title_bg=%2342423F&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://https://github.com/jjunhaa0211)
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunhaa0211&show_icons=true&theme=dark)
