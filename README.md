@@ -19,7 +19,7 @@
   
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=brack&logo=Xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/CLion-000000?style=brack&logo=CLion&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitKreken-179287?style=brack&logo=GitKreken&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitKraken-179287?style=brack&logo=GitKraken&logoColor=white"/>
 
 
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
