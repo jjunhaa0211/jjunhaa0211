@@ -10,7 +10,7 @@ I am an iOS developer
   
 My main Skill is Swift
   
-**I am not the best developer, but I will always be the one who tries.**
+
   
 <h1>
     
