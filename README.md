@@ -12,11 +12,12 @@
 <img src="https://img.shields.io/badge/IOS-000000?style=brack&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=red&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
-  
-  
-<br/>
-<br/>
 
+
+
+  
+  
+  
 🔥Tools🔥
   
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=brack&logo=Xcode&logoColor=white"/>
@@ -25,6 +26,8 @@
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=brack&logo=CocoaPods&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=brack&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=brack&logo=Adobe XD&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=brack&logo=Notion&logoColor=white"/>
+
 
 
 </div>
