@@ -12,7 +12,7 @@ My main Skill is Swift
   
 **I am not the best developer, but I will always be the one who tries.**
   
-  <#>
+<hr/>
     
 ### 🔥Skills🔥
   
@@ -23,7 +23,7 @@ My main Skill is Swift
 
 <br/>
 <br/>
-
+<br/>
   
   
   
