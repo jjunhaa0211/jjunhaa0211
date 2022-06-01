@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=brack&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=brack&logo=Adobe XD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=brack&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=brack&logo=GitHub&logoColor=white"/>
 
   
 <br/>
