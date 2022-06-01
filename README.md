@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/CLion-000000?style=brack&logo=CLion&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=brack&logo=GitKraken&logoColor=white"/>
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=brack&logo=CocoaPods&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=brack&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/CocoaPods-EE3322?style=brack&logo=CocoaPods&logoColor=white"/>
 
 
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
