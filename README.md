@@ -38,6 +38,6 @@
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunhaa0211&show_icons=true&theme=dark)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjunhaa0211)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjunhaa0211&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
