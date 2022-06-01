@@ -38,6 +38,7 @@
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunhaa0211&show_icons=true&theme=dark)
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   
   
 </div>
