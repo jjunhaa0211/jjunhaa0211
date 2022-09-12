@@ -20,6 +20,7 @@ My main Skill is Swift
 <img src="https://img.shields.io/badge/IOS-000000?style=brack&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=red&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 <br/>
 <h1>
@@ -34,7 +35,7 @@ My main Skill is Swift
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=brack&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=brack&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=brack&logo=GitHub&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Data Grip-B36EE8?style=flat-square&logo=DataGrip&logoColor=white"/></a>
   
 <br/>
 <br/>
