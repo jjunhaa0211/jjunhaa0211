@@ -13,7 +13,7 @@ My main Skill is Swift
 
 **I am not the best developer, but I will always be the one who tries.**
 
-<img src="https://img.shields.io/badge/IOS-000000?style=brack&logo=Apple&logoColor=white"/>(https://velog.io/@jjunhaa0211)
+<img src="https://img.shields.io/badge/velog-000000?style=brack&logo=Apple&logoColor=white"/>(https://velog.io/@jjunhaa0211)
   
 <h1>
     
