@@ -1,7 +1,4 @@
 
-
-<div align="center">
-
 ### Hello, I'm JunHa 👋
 **I am not the best developer, but I will always be the one who tries.**
 
