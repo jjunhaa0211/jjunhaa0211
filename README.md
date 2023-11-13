@@ -13,3 +13,7 @@ Projects
 * [MaeumGaGym](https://github.com/MaeumgaGym/MaeumGaGym_iOS)
   * [MindGymKit](https://github.com/MaeumgaGym/MindGymKit)
 * [Blending](https://github.com/Blendings/Blending-iOS)
+
+Study
+* [Info](https://github.com/Info-iOS/iOStudy)
+* [ADPattern](https://github.com/jjunhaa0211/ADPattern-Swift)
