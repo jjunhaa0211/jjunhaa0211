@@ -4,6 +4,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/e4d70c95-0ab5-4042-9335-c7e0a350f6dc.svg)](https://wakatime.com/@e4d70c95-0ab5-4042-9335-c7e0a350f6dc)
 
+Portfolio
+* [포트폴리오](https://www.rallit.com/resume)
+
 Projects
 
 * [PerfectContributionsView](https://github.com/jjunhaa0211/PerfectContributionsView)
