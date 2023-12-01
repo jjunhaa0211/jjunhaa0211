@@ -2,7 +2,7 @@
 
 > iOS 개발하면 제 이름이 나올 때까지 열심히하겠습니다!!
 
-[![wakatime](https://wakatime.com/badge/user/e4d70c95-0ab5-4042-9335-c7e0a350f6dc.svg)](https://wakatime.com/@e4d70c95-0ab5-4042-9335-c7e0a350f6dc)
+[![wakatime](https://www.rallit.com/resume/template)
 
 Portfolio
 * [포트폴리오](https://www.rallit.com/resume)
