@@ -2,8 +2,6 @@
 
 > iOS 개발하면 제 이름이 나올 때까지 열심히하겠습니다!!
 
-![wakatime](https://www.rallit.com/resume/template)
-
 Portfolio
 * [포트폴리오](https://www.rallit.com/resume)
 
