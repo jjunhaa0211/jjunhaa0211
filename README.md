@@ -11,7 +11,6 @@ Projects
 * [Today](https://github.com/TodayAsWell/Today-Memory-iOS)
   * [XCameraKit](https://github.com/jjunhaa0211/XCameraKit)
 * [SecureMarshmallow](https://github.com/SecureMarshmallow/SecureMarshmallow_iOS_V3)
-* [Mukgen](https://github.com/mukgen/mukgen_iOS_V1)
 * [LookMonster](https://github.com/LookMonster/LookMonster-iOS)
 * [MaeumGaGym](https://github.com/MaeumgaGym/MaeumGaGym_iOS)
   * [MindGymKit](https://github.com/MaeumgaGym/MindGymKit)
