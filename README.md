@@ -16,7 +16,6 @@ Projects
 * [LookMonster](https://github.com/LookMonster/LookMonster-iOS)
 * [MaeumGaGym](https://github.com/MaeumgaGym/MaeumGaGym_iOS)
   * [MindGymKit](https://github.com/MaeumgaGym/MindGymKit)
-* [삶](https://github.com/SalmLife)
 
 Study
 * [Info-iOStudy](https://github.com/Info-iOS/iOStudy)
