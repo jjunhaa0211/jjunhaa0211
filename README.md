@@ -22,7 +22,5 @@ Projects
 
 Study
 * [Info-iOStudy](https://github.com/Info-iOS/iOStudy)
-* [Info-Interview](https://github.com/Info-iOS/Info-iOS-interview)
 * [ADPattern](https://github.com/jjunhaa0211/ADPattern-Swift)
 * [Tuist-Junha](https://github.com/jjunhaa0211/Tuist-Junha)
-* [RxSwift-Junha](https://github.com/jjunhaa0211/RxSwift-Junha)
