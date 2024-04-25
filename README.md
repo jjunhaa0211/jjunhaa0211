@@ -16,6 +16,9 @@ Projects
 * [LookMonster](https://github.com/LookMonster/LookMonster-iOS)
 * [MaeumGaGym](https://github.com/MaeumgaGym/MaeumGaGym_iOS)
   * [MindGymKit](https://github.com/MaeumgaGym/MindGymKit)
+* [인스타 차단 앱](https://github.com/jjunhaa0211/ForcedBlockingSwift)
+* [NFC](https://github.com/jjunhaa0211/NFC-Swift)
+* [Mafia](https://github.com/jjunhaa0211/Mafia)
 
 Study
 * [Info-iOStudy](https://github.com/Info-iOS/iOStudy)
