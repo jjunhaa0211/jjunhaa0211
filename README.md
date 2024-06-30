@@ -9,7 +9,6 @@
 - [VisitHistoryWebView](https://github.com/jjunhaa0211/VisitHistoryWebView)
 
 ### Project
-* [PerfectContributionsView](https://github.com/jjunhaa0211/PerfectContributionsView)
 * [Today](https://github.com/TodayAsWell/Today-Memory-iOS)
 * [SecureMarshmallow](https://github.com/SecureMarshmallow/SecureMarshmallow_iOS_V3)
 * [LookMonster](https://github.com/LookMonster/LookMonster-iOS)
