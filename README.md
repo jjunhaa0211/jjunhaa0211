@@ -7,6 +7,7 @@
 - [MindGymKit](https://github.com/MaeumGaGym/MindGymKit)
 - [Mango](https://github.com/MaeumGaGym/Mango)
 - [VisitHistoryWebView](https://github.com/jjunhaa0211/VisitHistoryWebView)
+- [Picasso](https://github.com/jjunhaa0211/Picasso/tree/main)
 
 ### Project
 * [Today](https://github.com/TodayAsWell/Today-Memory-iOS)
