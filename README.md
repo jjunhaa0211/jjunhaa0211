@@ -21,7 +21,7 @@
 * [Decofolio](https://github.com/Decofolio/Decofolio-Frontend)
 * [WEATHERCARD](https://github.com/jjunhaa0211/WEATHERCARD) (배포 중)
 * [JMemo](https://github.com/jjunhaa0211/JMemo) ([배포 완료](https://apps.apple.com/kr/app/%EC%A4%80%EB%85%B8%ED%8A%B8/id6505130882))
-* [자기주도](https://github.com/jjunhaa0211/JAGIJUDO)
+* [자기주도](https://github.com/jjunhaa0211/JAGIJUDO) (배포 중)
 
 ### Study
 * [Info-iOStudy](https://github.com/Info-iOS/iOStudy)
