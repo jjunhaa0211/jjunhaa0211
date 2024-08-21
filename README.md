@@ -1,7 +1,7 @@
 ## 어제의 나를 이겨라
 > 꿈을 향해서 멈추지 않습니다. 🏃🏿‍♂️
 * [포트폴리오](https://www.goodjunha.com)
-* [Docs](https://jjunhaa0211.github.io/Developer_Jun/)
+* [Junha Docs](https://jjunhaa0211.github.io/Developer_Jun/)
 ### Library
 - [PerfectContributionsView](https://github.com/jjunhaa0211/PerfectContributionsView) (운영 중)
 - [XCameraKit](https://github.com/jjunhaa0211/XCameraKit) 
