@@ -20,9 +20,9 @@
 * [Mafia](https://github.com/jjunhaa0211/Mafia)
 * [Shalo](https://github.com/AVFNS/Shalo) ([배포 완료](https://apps.apple.com/kr/app/shalo/id6511210958))
 * [Decofolio](https://github.com/Decofolio/Decofolio-Frontend)
-* [WEATHERCARD](https://github.com/jjunhaa0211/WEATHERCARD) (배포 중)
+* [WEATHERCARD](https://github.com/jjunhaa0211/WEATHERCARD)
 * [JMemo](https://github.com/jjunhaa0211/JMemo) ([배포 완료](https://apps.apple.com/kr/app/%EC%A4%80%EB%85%B8%ED%8A%B8/id6505130882))
-* [자기주도](https://github.com/jjunhaa0211/JAGIJUDO) (배포 중)
+* [자기주도](https://github.com/jjunhaa0211/JAGIJUDO)
 * [콘티](https://github.com/jjunhaa0211/Conty) ([배포 완료](https://apps.apple.com/kr/app/%EC%BD%98%ED%8B%B0-conty/id6590610378))
 
 ### Study
