@@ -1,3 +1,4 @@
 ```으아악
-넌 노래를 불러줘 난 춤을 출게 💃🏿
+Are you dumb? Be strong
 ```
+- blog: [https://www.junome.info/home](https://www.junome.info/home?v=futsi1)
